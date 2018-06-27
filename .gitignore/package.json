@@ -1,0 +1,14 @@
+{
+  "name": "vikbot",
+  "version": "1.0.0",
+  "description": "J'aime le veau",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AAzzut",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
